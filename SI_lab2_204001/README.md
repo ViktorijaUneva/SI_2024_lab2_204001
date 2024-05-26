@@ -3,7 +3,7 @@
 1. Викторија Унева
 204001
 
-2. ![control flow graph](./images/code2flow_gnIvx4.png)
+2. ![control flow graph](./images/graph.png)
 
 
 
